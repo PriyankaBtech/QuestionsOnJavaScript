@@ -13,7 +13,6 @@ class Calculator {
     }
 }
 
-
 const result = Calculator.add(20, 10);
 
 // Output:
